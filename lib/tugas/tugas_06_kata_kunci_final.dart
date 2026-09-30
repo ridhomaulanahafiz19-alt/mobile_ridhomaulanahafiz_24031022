@@ -3,5 +3,5 @@ void main() {
   final lastName = 'Khannedy';
 
   firstName = 'Budi';
-  lastName = 'Nugraha';
+  lastName = 'Khannedy';
 }
