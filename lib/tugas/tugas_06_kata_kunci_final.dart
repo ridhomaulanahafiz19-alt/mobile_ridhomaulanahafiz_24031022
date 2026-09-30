@@ -1,8 +1,7 @@
 void main() {
   var firstName = 'Eko';
-  final lastName = 'Kurniawan';
+  final lastName = 'Khannedy';
 
   firstName = 'Budi';
   lastName = 'Nugraha';
-  
 }
