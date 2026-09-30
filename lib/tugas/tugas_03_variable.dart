@@ -1,7 +1,10 @@
 void main() {
   String name;
 
-  name = 'eko';
+  name = 'Eko Kurniawan Khannedy';
 
+  print(name);
+  print(name);
+  print(name);
   print(name);
 }
