@@ -1,7 +1,7 @@
 void main() {
-  String firstName = 'Eko';
+  String firstName = 'ridho';
 
-String lastName = "Khannedy";
+String lastName = "hafiz";
 
 print(firstName);
 print(lastName);
