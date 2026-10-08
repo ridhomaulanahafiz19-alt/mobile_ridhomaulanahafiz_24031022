@@ -6,5 +6,5 @@ void main() {
 
 String getValue() {
   print('getValue dipanggil');
-  return 'Eko Kurniawan Khannedy';
+  return 'ridho maulana hafiz';
 }
