@@ -5,6 +5,6 @@ print(variable);
 variabel = true;
 print(variable);
 
-variable = 'eko';
+variable = 'ridho';
 print(variable);
 }
