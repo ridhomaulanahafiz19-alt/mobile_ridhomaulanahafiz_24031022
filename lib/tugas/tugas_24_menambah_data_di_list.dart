@@ -1,5 +1,6 @@
 void main() {
-  var name = <String>[];
+  var names = <String>[];
+  
   names.add('ridho');
   names.add('maulana');
   names.add('hafiz');
