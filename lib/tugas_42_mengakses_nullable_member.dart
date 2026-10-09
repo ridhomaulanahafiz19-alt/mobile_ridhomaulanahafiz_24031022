@@ -1,6 +1,7 @@
+
 void main() {
-  int? intNumber;
+  int? intNumber = 10;
   double? doubleNumber = intNumber?.toDouble();
 
-  print (doubleNumber);
+  print(doubleNumber);
 }
