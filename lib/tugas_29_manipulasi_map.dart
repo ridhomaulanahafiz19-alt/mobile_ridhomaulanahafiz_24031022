@@ -7,7 +7,7 @@ void main() {
   print(name['first']);
 
   name['middle'] = 'maulana';
-  print(name)
+  print(name);
 
   name.remove('last');
   print(name);

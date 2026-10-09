@@ -8,4 +8,12 @@ void main() {
 
   var stringfromint = inputInt.toString();
   var stringfromdouble = inputDouble.toString();
+
+  print('inputString: $inputString');
+  print('inputInt: $inputInt');
+  print('inputDouble: $inputDouble');
+  print('doublefromint: $doublefromint');
+  print('intfromdouble: $intfromdouble');
+  print('stringfromint: $stringfromint');
+  print('stringfromdouble: $stringfromdouble');
 }

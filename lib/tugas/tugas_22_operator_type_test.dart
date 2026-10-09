@@ -5,4 +5,11 @@ void main() {
 
   var isInt = variable is int;
   var isNotBoolean = variable is! bool;
+
+  print('variable: $variable');
+  print('variableInt: $variableInt');
+  print('isInt: $isInt');
+  print('isNotBoolean: $isNotBoolean');
+  print('variable.runtimeType: ${variable.runtimeType}');
+
 }

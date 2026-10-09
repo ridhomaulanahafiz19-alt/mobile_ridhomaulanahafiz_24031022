@@ -1,4 +1,6 @@
 void main() {
+  String nilai = 'A';
+  
   switch (nilai) {
   case 'A':
     print('Wow Anda Lulus Dengan Baik');

@@ -1,10 +1,11 @@
+
 void main() {
   dynamic variable = 100;
-print(variable);
+  print(variable);
 
-variabel = true;
-print(variable);
+  variable = true;
+  print(variable);
 
-variable = 'ridho';
-print(variable);
+  variable = 'ridho';
+  print(variable);
 }
