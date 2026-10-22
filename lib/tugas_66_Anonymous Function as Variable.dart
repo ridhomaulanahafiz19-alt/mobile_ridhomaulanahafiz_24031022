@@ -1,9 +1,11 @@
-Void main() {
+
+void main() {
   var upperFunction = (String name) {
-  return name.toUpperCase();
-};
+    return name.toUpperCase();
+  };
 
-var lowerFunction = (String name) => name.toLowerCase();
+  var lowerFunction = (String name) => name.toLowerCase();
 
-print(upperFunction('Ridho'));
-print(lowerFunction('Ridho'));
+  print(upperFunction('Ridho'));
+  print(lowerFunction('Ridho'));
+}
