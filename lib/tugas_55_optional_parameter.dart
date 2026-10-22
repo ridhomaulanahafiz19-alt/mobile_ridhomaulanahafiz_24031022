@@ -5,6 +5,6 @@ void main() {
 
   void main() {
     sayHello('Ridho');
-    sayHello('Maulana', 'Hafiz');
+    sayHello('Ridho', 'Hafiz');
   }
 }
