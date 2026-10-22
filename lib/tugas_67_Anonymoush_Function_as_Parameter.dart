@@ -5,11 +5,11 @@ void main() {
 }
 
 void main() {
-  sayHello('Eko Kurniawan Khannedy', (name) {
+  sayHello('Ridho Maulana Hafiz', (name) {
     return name.toUpperCase();
   });
 
-  sayHello('Eko Kurniawan Khannedy',
+  sayHello('Ridho Maulana Hafiz',
       (String name) => name.toLowerCase());
 }
 }
