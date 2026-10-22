@@ -1,6 +1,6 @@
 
 void main() {
-  var name = 'Eko';
+  var name = 'Ridho';
   var hello = 'Hello $name';
 
   void sayHello() {
